@@ -1,8 +1,0 @@
-# Retail Sales SQL Analysis
-## Objectives
-
-Create and populate a retail sales database with the provided sales data.
-Identify and remove any records with missing or null values.
-Perform basic exploratory data analysis to understand the dataset.
-Use SQL to answer specific business questions and derive insights from the sales data.
-      
